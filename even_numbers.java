@@ -1,4 +1,4 @@
-public class even{
+public class even_numbers{
     public static void main(String[]args){
 for (int i=1;i<=100;i++)
 {
